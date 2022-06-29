@@ -52,4 +52,4 @@ async def on_message(message):
   if "invest" in message.content:
     await message.channel.send("Be careful when reading someone else's ideas. Make sure you are making your own investment decisions")
 
-client.run("OTg5MTQ4OTc4NjAxOTQ3MTc2.G92gO6.-jRTLSBNfZGvgtVoFlLZkw-ZfBoQD1r7wq7BWw")
+client.run("YOUR DISCORD KEY")
